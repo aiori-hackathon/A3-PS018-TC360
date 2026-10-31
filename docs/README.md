@@ -4,10 +4,8 @@ This folder contains the project-related documents for HAPS Link-Quality Predict
 
 ## Available Documents
 
-- `A3-PS018-TC360 PPT.pdf` – Initial project presentation describing the problem statement, proposed methodology, objectives, and planned implementation.
-
-- `Proposed-structure-hackathon.pdf` – Proposed project structure and implementation details.
+- **A3-PS018-TC360 PPT.pdf** – Initial project presentation describing the problem statement, proposed methodology, objectives, and planned implementation.
 
 ## Note
 
-The documents currently available describe the proposed project plan. The final technical report will be added after project completion.
+The uploaded presentation describes the proposed project plan. The final technical report will be added after project completion.
