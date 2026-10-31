@@ -9,3 +9,7 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 **Project Title:** HAPS Link-Quality Prediction Using a Documented Channel Model
 
 **YouTube Video:** https://youtu.be/rTSsb8g734A?si=4kFE50EBwY-lwUje
+
+## Working Demo
+
+**YouTube Demo:** https://youtu.be/UyWDJKvVWig
